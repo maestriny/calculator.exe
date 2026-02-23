@@ -19,6 +19,10 @@ const Wrapper = styled.div`
   cursor: default;
   user-select: none;
 
+  @media (max-width: 480px) {
+    display: none;
+  }
+
   img {
     width: 48px;
     height: 48px;
