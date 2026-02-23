@@ -7,10 +7,9 @@ A painfully nostalgic Windows 95 calculator built with react95
 <br>
 
 <a href="https://maestriny.github.io/calculator.exe">
-  <img src="src/assets/computer.ico" width="24" height="24" style="vertical-align: middle;" />
-  <b style="vertical-align: middle;">Try it here</b>
+  <img src="src/assets/computer.ico" width="24" height="24" align="center" />
+  <b> Try it here</b>
 </a>
-
 
 ## Features
 
