@@ -4,6 +4,15 @@ A painfully nostalgic Windows 95 calculator built with react95
 
 <img src="preview.png" width="400" />
 
+<br>
+
+<a href="https://maestriny.github.io/calculator.exe" style="display:inline-flex;align-items:center;gap:6px;">
+  <img src="src/assets/computer.ico" width="24" height="24" />
+  <b>Try it here</b>
+</a>
+
+
+
 ## Features
 
 - Basic operations: `+`, `-`, `*`, `/`
