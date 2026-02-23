@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/calculator.exe/static/js/main.d147eb0e.js",
+    "static/media/paint.ico": "/calculator.exe/static/media/paint.22ab56f88721824fc369.ico",
+    "static/media/computer.ico": "/calculator.exe/static/media/computer.fe81c255d8479ca2bf13.ico",
+    "static/media/folder.ico": "/calculator.exe/static/media/folder.1bac75c8e3b4ebd72ca2.ico",
+    "static/media/bin.ico": "/calculator.exe/static/media/bin.c0926192ee107aaaeae3.ico",
+    "static/media/emptybin.ico": "/calculator.exe/static/media/emptybin.f204a33d48e9b77ecc30.ico",
+    "static/media/explorer.ico": "/calculator.exe/static/media/explorer.6a883bd8aad7dce3804b.ico",
+    "static/media/ms_sans_serif.woff2": "/calculator.exe/static/media/ms_sans_serif.0348082abb503fb6a8c2.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/calculator.exe/static/media/ms_sans_serif_bold.7fcf57cc6e87ecddbf64.woff2",
+    "static/media/error.ico": "/calculator.exe/static/media/error.ab652a8ecf02c3de9255.ico",
+    "index.html": "/calculator.exe/index.html",
+    "main.d147eb0e.js.map": "/calculator.exe/static/js/main.d147eb0e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d147eb0e.js"
+  ]
+}
